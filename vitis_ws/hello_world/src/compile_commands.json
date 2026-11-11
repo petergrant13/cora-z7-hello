@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/peter/Git/cora-z7-hello/vitis_ws/hello_world/build",
+  "command": "/home/peter/AMD/2026.1/Vitis/gnu/aarch32/lin/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -isystem /home/peter/Git/cora-z7-hello/vitis_ws/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -isystem /home/peter/AMD/2026.1/gnu/aarch32/lin/gcc-arm-none-eabi/x86_64-oesdk-linux/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.4.0/include -isystem /home/peter/AMD/2026.1/gnu/aarch32/lin/gcc-arm-none-eabi/x86_64-oesdk-linux/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.4.0/include-fixed -isystem /home/peter/AMD/2026.1/Vitis/gnu/aarch32/lin/gcc-arm-none-eabi/aarch32-xilinx-eabi/usr/include  -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=/home/peter/Git/cora-z7-hello/vitis_ws/platform/export/platform/sw/standalone_ps7_cortexa9_0/Xilinx.spec -I/home/peter/Git/cora-z7-hello/vitis_ws/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles/hello_world.elf.dir/helloworld.c.obj -c /home/peter/Git/cora-z7-hello/vitis_ws/hello_world/src/helloworld.c",
+  "file": "/home/peter/Git/cora-z7-hello/vitis_ws/hello_world/src/helloworld.c",
+  "output": "CMakeFiles/hello_world.elf.dir/helloworld.c.obj"
+},
+{
+  "directory": "/home/peter/Git/cora-z7-hello/vitis_ws/hello_world/build",
+  "command": "/home/peter/AMD/2026.1/Vitis/gnu/aarch32/lin/gcc-arm-none-eabi/bin/arm-none-eabi-gcc -isystem /home/peter/Git/cora-z7-hello/vitis_ws/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -isystem /home/peter/AMD/2026.1/gnu/aarch32/lin/gcc-arm-none-eabi/x86_64-oesdk-linux/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.4.0/include -isystem /home/peter/AMD/2026.1/gnu/aarch32/lin/gcc-arm-none-eabi/x86_64-oesdk-linux/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.4.0/include-fixed -isystem /home/peter/AMD/2026.1/Vitis/gnu/aarch32/lin/gcc-arm-none-eabi/aarch32-xilinx-eabi/usr/include  -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=/home/peter/Git/cora-z7-hello/vitis_ws/platform/export/platform/sw/standalone_ps7_cortexa9_0/Xilinx.spec -I/home/peter/Git/cora-z7-hello/vitis_ws/platform/export/platform/sw/standalone_ps7_cortexa9_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles/hello_world.elf.dir/platform.c.obj -c /home/peter/Git/cora-z7-hello/vitis_ws/hello_world/src/platform.c",
+  "file": "/home/peter/Git/cora-z7-hello/vitis_ws/hello_world/src/platform.c",
+  "output": "CMakeFiles/hello_world.elf.dir/platform.c.obj"
+}
+]

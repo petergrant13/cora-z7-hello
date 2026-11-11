@@ -1,0 +1,72 @@
+# -----------------------------------------------------------------------------
+# Vivado generated files
+# -----------------------------------------------------------------------------
+
+*.jou
+*.log
+*.str
+*.bit
+*.xpr
+*.xsa
+*.bin
+.metadata/
+.cache/
+.gen/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.build/
+*.Xil/
+
+# Vivado generated project data
+*.pb
+*.wdb
+
+# -----------------------------------------------------------------------------
+# Vitis generated files
+# -----------------------------------------------------------------------------
+
+.vscode/
+.metadata/
+.sdk/
+.platform/
+.bsp/
+
+# Vitis workspace/project generated files
+Debug/
+Release/
+
+# -----------------------------------------------------------------------------
+# Build output
+# -----------------------------------------------------------------------------
+
+build/
+# Vitis workspace: ignore everything, then allow only hand-written files
+vitis_ws/*
+!vitis_ws/hello_world/
+vitis_ws/hello_world/*
+!vitis_ws/hello_world/src/
+!vitis_ws/hello_world/CMakeLists.txt
+!vitis_ws/hello_world/UserConfig.cmake
+!vitis_ws/hello_world/vitis-comp.json
+!vitis_ws/platform/
+vitis_ws/platform/*
+!vitis_ws/platform/vitis-comp.json
+out/
+dist/
+
+# -----------------------------------------------------------------------------
+# OS/editor files
+# -----------------------------------------------------------------------------
+
+.DS_Store
+Thumbs.db
+
+# -----------------------------------------------------------------------------
+# Temporary files
+# -----------------------------------------------------------------------------
+
+*.swp
+*.swo
+*~
